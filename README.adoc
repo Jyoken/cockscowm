@@ -1,3 +1,32 @@
 == cockscowm
 
 とさかウィンドウマネージャ on ウェイランド
+
+     ..',;:ccc:::ccllooodxxxxxddoodol,.             .:ddddoo
+     .,;:clooolllodddxxxddddoooodxxxdl;.             ':::::;
+    .,;cloddddddxxkkxdoc:ccccllodxkkkkdl;.           .;:::::
+    .;:loddxxxxxkkxdl,',:lodxkkkkkkkkkkkkdl,.       .;::cc::
+    .;:lodxxxxxxxdl;..,cdxxkkkkkkkkkkkOkkkkxc.     .,:'..;cc
+    .;:loddxxxddl:,.';codddlccccccldkOOOOOkkd:.     .cdo;,cl
+    .,cloodddddoc;,;:cc:,..''...,:lxkO00OOOkko,. ..':ldkxccl
+.   .,:ccccllooooccccc,.   ;ddodxkOOO0000OOOkxl..,:;,;:lddll
+;'.  .'....',;coxxddlc'...,cddxxkOO0000000OOkkd;,oxo;,;;lddo
+;,.   .......',cxO0Okxl:::clodxxkOO0000000OOkkxlcxOOkxdllddl
+;,.. .':clcc:,,;dO0KK0OkxddddxxkkOO0000000OOkkxdoxkOOOOkxxoc
+;;;,..,:;,..',;:ok0K0KKK0OOkkkkOOO0000000OOOkkkxdxk0000Oxoc:
+;;;;;,'.    ';;:cxOK0KKKK0OOOOOOO000000OOOOOkkkxxdddxxxol:::
+;;;;;;;'..';:clc:oO000000OOOOOOOOO00000OOOOOOOkkxdc'';::::::
+;;;;;;;;',:clloc:ok000000OkkkkkOOOOOOOOOOOOOOOkkxxl,,:::::::
+;;;;;;;;;;clooolcokO0OOkkkxkOOOOO0000OOOOOOOOOkkxxo:;:::::::
+;;;;;;;;;:cloddocloddl;',:ok0000000000OOOOOkkkkxxxdlc:::::::
+;;;;;;;;;;:coddoc,.',,,coxkO0OOOOOOOOOOOOkkkkxxxddooc:::::::
+;;;;;;;;;;;:codol;..':ldkOOOOOOkxdxkkOOkkkxxddddolodl:::::::
+;;;;;;;;;;;;;:lll:;;cdxoodoolcc:,,coxkkkkxxddool:cdxoc::c::;
+;;;;;;;;;;;;;;;:cccc:::::,'..',;:lddxxxxxxddolc;:oxxdlc::,'.
+;;;;;;;;;;;;;;;;;;:,.....,;coddddxkkkxxxxxdol:;:oxxxdol:,'''
+;;;;;;;;;;;;;;;;;;,'...,codddlccldxxxxxxxdol:;:dkkkxdl;'.'..
+,,,,,,,,,;;;;;;;;,,,,,,;:;,''',:oxxkkkkxdoc;;cdkkkkxc,''....
+''',,,,,,,,,,,,,,,;,,,,'...';ldxkOOOkkxdl;,;lxkkkkd:'.......
+,,,,,;;;;;;;;;;;;;;;;;;,,,:ldxkkkOOkxdl:,;coxkkkxl,.........
+;;;;;;;;;;;;;;;;;;;;:::;;;;clooooolc:,'';coxxkxo;...........
+;;;;;;;;;;;;;;;;;:::::::::;;;;;;,'....';codxkxl,............
